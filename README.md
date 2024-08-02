@@ -1,3 +1,3 @@
 # news
-![Model]('2 страница.png')
-![Model]('Детальная страница.png')
+![Model](https://github.com/PayPalllk/news/blob/main/2%20страница.png)
+![Model]()
