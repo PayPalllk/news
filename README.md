@@ -1,3 +1,3 @@
 # news
-![Model](https://github.com/PayPalllk/news/blob/main/screen1.png)
-![Model](https://github.com/PayPalllk/news/blob/main/screen2.png)
+![screen1](https://github.com/user-attachments/assets/0d2f98e9-9e14-464a-aa26-23ef7c33b2f5)
+![Uploading screen2.png…]()
