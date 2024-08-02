@@ -92,10 +92,12 @@ main .row{
 }
 .content .left{
   min-width: 40%;
-  max-width: 60%;
 }
 .content>div{
-  max-width: 46%;
+  max-width: 49%;
+  img{
+  width: 100%;
+  }
 }
 .content .left span{
   display: flex;
